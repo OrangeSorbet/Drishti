@@ -1,0 +1,6 @@
+frames/
+output_video/
+Real-ESRGAN/
+upscaled_frames/
+venv/
+/ffmpeg
