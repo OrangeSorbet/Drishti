@@ -41,6 +41,8 @@ Drishti/
 ### 1. Prerequisites
 
 - Python 3.13.7+
+
+# FFMPEG AND REAL-ESRGAN CURRENTLY PREINSTALLED IN INSTALLER AND PORTABLE RELEASE v1.0.0
 - `ffmpeg.exe` and `ffprobe.exe` in `Upscale-Basic/ffmpeg/`
 > Version: 7.1.1-full_build-www.gyan.dev   
 OR in command prompt - `winget install "FFmpeg (Essentials Build)"`
