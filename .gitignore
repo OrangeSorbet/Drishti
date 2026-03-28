@@ -1,6 +1,17 @@
-frames/
-output_video/
+# builds
+dist/
+build/
+installer/
+
+# binaries
+*.exe
+*.dll
+
+# external tools
 Real-ESRGAN/
-upscaled_frames/
+ffmpeg/
+
+# python
+__pycache__/
+*.pyc
 venv/
-/ffmpeg

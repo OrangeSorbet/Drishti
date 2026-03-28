@@ -1,0 +1,16 @@
+# requirements.txt — Drishti dependencies
+# Install with: pip install -r requirements.txt
+
+# Core (all available as wheels, PyInstaller-safe)
+pillow                  # image open/save/PDF compilation
+pypdf>=3.0.0            # PDF page counting (optional, falls back to raw scan)
+
+# Optional — drag and drop support
+# Install this for drag-and-drop to work on Windows/macOS/Linux
+# pip install tkinterdnd2
+tkinterdnd2>=0.3.0      # comment out if not needed / causes issues
+
+# Note: tkinter ships with Python stdlib, no separate install needed
+# ffmpeg and realesrgan-ncnn-vulkan are bundled in Upscale-Basic/
+pdf2image                # for PDF page counting (optional, falls back to raw scan)
+pyinstaller              # for building standalone executables (optional)
