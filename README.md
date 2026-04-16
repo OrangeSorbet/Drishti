@@ -43,11 +43,11 @@ Drishti/
 - Python 3.13.7+
 
 # FFMPEG AND REAL-ESRGAN CURRENTLY PREINSTALLED IN INSTALLER AND PORTABLE RELEASE v1.0.0
-- `ffmpeg.exe` and `ffprobe.exe` in `Upscale-Basic/ffmpeg/`
+- `ffmpeg.exe` and `ffprobe.exe` in `Drishti/ffmpeg/`
 > Version: 7.1.1-full_build-www.gyan.dev   
 OR in command prompt - `winget install "FFmpeg (Essentials Build)"`
 
-- `realesrgan-ncnn-vulkan.exe` in `Upscale-Basic/Real-ESRGAN/`
+- `realesrgan-ncnn-vulkan.exe` in `Drishti/Real-ESRGAN/`
 > [Real-ESRGAN V0.2.5.0](https://github.com/xinntao/Real-ESRGAN/releases/tag/v0.2.5.0)  
 `realesrgan-ncnn-vulkan-20220424-(macos/ubuntu/windows).zip`
 - [Ghostscript](https://ghostscript.com/releases/gsdnld.html) installed for PDF operations
